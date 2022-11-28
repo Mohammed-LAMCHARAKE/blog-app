@@ -1,0 +1,4 @@
+{
+  "JWT_PRIVATE_KEY": "jwt-dev-secret12345",
+  "DATABASE_URL": "mongodb+srv://lamcharake:03ZrXqMYdcOUCI0J@apis.u7pq9al.mongodb.net/blog-app?retryWrites=true&w=majority"
+}
